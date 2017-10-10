@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vaccine: MyString
+  dose_one: 1
+  dose_two: 1
+  dose_three: 1
+  dose_four: 1
+  dose_five: 1
+
+two:
+  vaccine: MyString
+  dose_one: 1
+  dose_two: 1
+  dose_three: 1
+  dose_four: 1
+  dose_five: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  immunization_id: 
+  user_id: 
+  doctor_id: 
+  dose: 1
+
+two:
+  immunization_id: 
+  user_id: 
+  doctor_id: 
+  dose: 1
